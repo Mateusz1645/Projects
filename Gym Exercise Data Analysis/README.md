@@ -8,6 +8,7 @@ In this project, we analyze data related to gym exercises. We use the dataset in
 - **Gym_Exercise_data_set.csv**: The dataset containing information about different gym exercises, such as repetitions, weights, etc.
 - **.ipynb_checkpoints/**: A folder containing automatically saved backup copies of the notebook.
 - **NOTICE**: A file detailing the changes made to the dataset and the source of the data.
+- **LICENSE**: The license under which this project is distributed.
 
 ## License
 
