@@ -11,7 +11,7 @@ In this project, we analyze data related to gym exercises. We use the dataset in
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE.md) file for more details.
 
 ## Data Source
 
@@ -19,7 +19,7 @@ This project uses data from Kaggle's [Gym Members Exercise Dataset](https://www.
 
 ## Changes Made
 
-See the [NOTICE](./NOTICE) file for a full list of changes made to the dataset.
+See the [NOTICE](./NOTICE.md) file for a full list of changes made to the dataset.
 
 
 
