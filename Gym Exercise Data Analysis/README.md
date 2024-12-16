@@ -7,3 +7,6 @@ In this project, we analyze data related to gym exercises. We use the dataset in
 Gym Exercise Data Analysis.ipynb: A Jupyter notebook where the data analysis takes place. It contains steps from data loading to visualizations and statistical analysis.
 
 Gym_Exercise_data_set.csv: The dataset containing information about different gym exercises, such as repetitions, weights, etc.
+
+.ipynb_checkpoints/: A folder containing automatically saved backup copies of the notebook.
+
